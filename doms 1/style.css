@@ -1,0 +1,26 @@
+
+
+body{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+flex-wrap: nowrap;justify-content: center;
+align-items: center;overflow: hidden;
+background-color: lightgray;
+font-family: sans-serif;
+}
+
+h1{
+    height: 50px;font-size: 50px;
+
+}
+
+input{
+    width: 350px;height: 40px;
+    display: block;border-radius: 6px;
+    background-color: #fff;
+    border: 5px solid black;
+    font-size: 22px;padding: 10px;
+}
+
